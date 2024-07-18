@@ -25,8 +25,3 @@ The Commercial App is a Flutter-based application developed for learning purpose
 - **Navigation**: Learning how to navigate between different screens and pass data.
 - **UI Design**: Gaining experience in decorating and designing user interfaces.
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/CommercialApp.git
